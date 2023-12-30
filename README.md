@@ -9,3 +9,5 @@ Pure learning project
 
 **Acknowledgments:**
 This unity project is based on CodeMonkey tutorial. So all credits are given to him.
+
+**Hope this tutorial worth it <3**
